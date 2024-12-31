@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+ 
+#message {
+    display: none;
+    position: absolute;
+    top: 20px;
+    font-size: 2rem;
+    text-align: center;
+}
